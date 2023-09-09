@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "COURTOIS",
+      "img": "https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20230810054608.jpg",
+      "desc":"GOALkEEPER"
+    },
+    {
+      "id": 2,
+      "name": "LUNIN",
+      "img": "https://www.realmadrid.com/img/vertical_380px/lunin_380x501_20230810054613.jpg",
+      "desc":"GOALkEEPER"
+    },
+    {
+      "id": 3,
+      "name": "ARRIZABALAGA",
+      "img": "https://www.realmadrid.com/img/vertical_380px/kepa_380x501_20230815034530.jpg",
+      "desc":"GOALkEEPER"
+    },
+    {
+      "id": 4,
+      "name": "CARVAJAL",
+      "img": "https://www.realmadrid.com/img/vertical_380px/carvajal_380x501_20230810054603.jpg",
+      "desc":"DEFENDER"
+    },
+    {
+        "id": 5,
+        "name": "E.MILITAO",
+        "img": "https://www.realmadrid.com/img/vertical_380px/militao_380x501_20230810054609.jpg",
+        "desc":"DEFENDER"
+    },{
+        "id": 6,
+        "name": "ALABA",
+        "img": "https://www.realmadrid.com/img/vertical_380px/alaba_380x501_20230810054614.jpg",
+        "desc":"DEFENDER"
+    },{
+        "id": 7,
+        "name": "NACHO",
+        "img": "https://www.realmadrid.com/img/vertical_380px/nacho_380x501_20230810054604.jpg",
+        "desc":"DEFENDER"
+    },{
+        "id": 8,
+        "name": "LUCAS V.",
+        "img": "https://www.realmadrid.com/img/vertical_380px/lucas_380x501_20230810055113.jpg",
+        "desc":"DEFENDER"
+    },{
+        "id": 9,
+        "name": "FRAN GARCIA",
+        "img": "https://www.realmadrid.com/img/vertical_380px/fran-garcia_380x501_20230810055117.jpg",
+        "desc":"DEFENDER"
+    },{
+        "id": 10,
+        "name": "RUDIGER",
+        "img": "https://www.realmadrid.com/img/vertical_380px/rudiger_380x501_20230810055116.jpg",
+        "desc":"DEFENDER"
+    }
+    
+  ]
